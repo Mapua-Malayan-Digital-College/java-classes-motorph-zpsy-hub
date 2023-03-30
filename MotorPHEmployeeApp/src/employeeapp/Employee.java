@@ -9,17 +9,17 @@ public class Employee {
 	public double hourlyRate;
 
     //constructor
-    /*public Employee(String id, String lastName, String firstName, String birthday, double basicSalary, double hourlyRate) {
+    public Employee(String id, String lastName, String firstName, String birthday, double basicSalary, double hourlyRate) {
         this.id = id;
         this.lastName = lastName;
         this.firstName = firstName;
         this.birthday = birthday;
         this.basicSalary = basicSalary;
         this.hourlyRate = hourlyRate;
-    }*/
+    }
 
     // getters and setters
-	/*public String getId() {
+	public String getId() {
         return id;
     }
 
@@ -41,6 +41,6 @@ public class Employee {
 
     public double getHourlyRate() {
         return hourlyRate;
-    }*/
+    }
 }
 
