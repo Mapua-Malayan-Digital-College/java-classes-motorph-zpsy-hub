@@ -24,6 +24,20 @@ public class Attendance {
        
     }
     
+    //calculate Daily Total Hours
+    public static double calculateDailyTotalHours() {
+    	
+    }
     
+    //calculate Weekly Total Hours
+    public static double calculateWeeklyTotalHours() {
+    	
+    }
+
+    //calculate Monthly Total Hours
+    public static double calculateMonthlyTotalHours() {
+    	
+    }
+
     }
 
