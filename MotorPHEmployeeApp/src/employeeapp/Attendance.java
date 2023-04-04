@@ -20,37 +20,10 @@ public class Attendance {
     // getters and setters
     
     // read attendance from CSV file and store in array
-    public static readAttendanceCSV() {
+    public static void readAttendanceCSV() {
        
     }
     
-    // calculate total hours worked in a month
-    public static double calculateTotalHours() {
-        
-    }
     
-    // calculate total days worked in a month
-    public static int calculateTotalDays() {
-        
     }
-    
-    // check if employee was late
-    public static boolean checkLate() {
-        
-    }
-     
-    // check if employee was absent
-    public static boolean checkAbsent() {
-        
-    }
-    
-    // check if employee has overtime
-    public static boolean checkOvertime() {
-        
-    }
-    
-    // calculate for overtime
-    public static double calculateOvertime() {
-       
-    }
-}
+
